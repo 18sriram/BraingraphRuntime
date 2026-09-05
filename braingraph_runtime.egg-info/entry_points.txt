@@ -1,0 +1,2 @@
+[console_scripts]
+bg = bg_cli.main:app

@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: braingraph-runtime
+Version: 0.1.0
+Summary: CLI and local runtime for BrainGraph workspaces
+Requires-Python: >=3.11
+Requires-Dist: httpx<1,>=0.27
+Requires-Dist: typer<1,>=0.12
+Requires-Dist: watchdog<7,>=5

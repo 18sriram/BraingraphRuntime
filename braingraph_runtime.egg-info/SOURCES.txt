@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+bg_cli/__init__.py
+bg_cli/main.py
+braingraph_runtime.egg-info/PKG-INFO
+braingraph_runtime.egg-info/SOURCES.txt
+braingraph_runtime.egg-info/dependency_links.txt
+braingraph_runtime.egg-info/entry_points.txt
+braingraph_runtime.egg-info/requires.txt
+braingraph_runtime.egg-info/top_level.txt
+tests/test_cli.py
